@@ -7,7 +7,7 @@ Zde naleznete všechen pokrok který jsme udělali od vzniku projektu až k sou�
 | Jméno | Řádky | Soubory | Updatováno |
 | ------- | ------- | --------- | ---------------- |
 | API | 1086 | 4 | 30.8.2023 |
-| HoleusBot | 450 | 9 | 5.6.2023 |
-| Kredity | 300 | 6 | 5.6.2023 |
-| LevelSystem | 1200 | 17 | 13.7.2023 |
-| PlayerSystem | 700 | 16 | 5.6.2023 |
+| HoleusBot | XXX | X | XX.XX.XXXX |
+| Kredity | XXX | X | XX.XX.XXXX |
+| LevelSystem | XXX | XX | XX.XX.XXXX |
+| PlayerSystem | 700 | XX | XX.XX.XXXX |
