@@ -2,9 +2,9 @@
 Zde naleznete všechen pokrok který jsme udělali od vzniku projektu až k současnosti
 
 
-# Velikost našich pluginů
+# Velikost našich pluginů/projektů
 
-| Plugin | Lines | Files | Updated |
+| Jméno | Řádky | Soubory | Updatováno |
 | ------- | ------- | --------- | ---------------- |
 | API | 1086 | 4 | 30.8.2023 |
 | HoleusBot | 450 | 9 | 5.6.2023 |
